@@ -1,0 +1,2 @@
+# Enterprise-Data-Hub-Data-Analytics-of-Telecommunication-Domain-
+The project is designed to efficiently process and analyze data from a source  RDBMS using AWS Glue for ETL (Extract, Transform, Load) operations. It follows a  multi-layer architecture inspired by the Medallion architecture, comprising Bronze,  Silver, Gold, and Platinum layers to ensure data quality and optimize data processing  and reporting.
